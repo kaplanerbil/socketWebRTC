@@ -1,0 +1,15 @@
+{
+  "preferGlobal": false,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "7.0.0"
+  },
+  "main": "RTCMultiConnection.js",
+  "dependencies": {
+    "socket.io": "latest"
+  },
+  "homepage": "https://rtcmulticonnection.herokuapp.com/"
+}
